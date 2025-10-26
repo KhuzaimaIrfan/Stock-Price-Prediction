@@ -1,0 +1,1 @@
+{"model_type": "sklearn", "features": ["close", "Volume", "Open", "High", "Low"], "target": "Target"}
